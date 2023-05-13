@@ -114,6 +114,10 @@ main .cartao-pokemon .tipo {
     background-color: #a6b910;
 }
 
+.Flying {
+    background-color: #808080;
+}
+
 main .descricao {
     max-height: 80px;
     overflow-y: scroll;
